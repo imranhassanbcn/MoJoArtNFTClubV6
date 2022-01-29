@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe0a09F242FD9F1326Ee47eB7Fa2897acCa59Bf21",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe0a09F242FD9F1326Ee47eB7Fa2897acCa59Bf21",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MoJoBuddha",
+  "SYMBOL": "MD",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mojobuddha",
+  "SHOW_BACKGROUND": true
+}
